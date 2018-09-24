@@ -56,7 +56,7 @@ const targetBits = 15
 //Function main
 func main() {
 	// getBalance("Isha")
-	send("Isha", "Prateek", 3)
+	send("Prateek", "Isha", 3)
 	getBalance("Isha")
 	//bc.AddBlock("One Y transaction")
 	//bc.AddBlock("One Y transaction")
